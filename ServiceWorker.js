@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-ConveyAIAssistant-0.1.0";
 const contentToCache = [
-    "Build/test.loader.js",
-    "Build/test.framework.js",
-    "Build/test.data",
-    "Build/test.wasm",
+    "Build/ConvaiAssistantAvatar Git.loader.js",
+    "Build/ConvaiAssistantAvatar Git.framework.js",
+    "Build/ConvaiAssistantAvatar Git.data",
+    "Build/ConvaiAssistantAvatar Git.wasm",
     "TemplateData/style.css"
 
 ];
